@@ -2,12 +2,18 @@
 R6S Encryption Patch
 
 Usage:
+
 1- Download BatchPatch v0.1 from:
      https://www.unknowncheats.me/forum/downloads.php?do=file&id=30120
+
 2- Copy keystone.dll and sqlite3.dll to BatchPatch folder with BatchPatch.exe.
+
 3- Run BatchPatch.exe.
+
 4- Run the game.
+
 5- Enter full to database file and click ENTER.
+
 6- Wait for BatchPatch to finish its work.
 
 Released in unknowncheats.me
