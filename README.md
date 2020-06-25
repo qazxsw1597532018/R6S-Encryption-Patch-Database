@@ -2,7 +2,6 @@
 R6S Encryption Patch
 
 Usage:
-
 1- Download BatchPatch v0.1 from:
      https://www.unknowncheats.me/forum/downloads.php?do=file&id=30120
 
