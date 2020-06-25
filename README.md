@@ -23,5 +23,7 @@ https://www.unknowncheats.me/forum/rainbow-six-siege/403298-r6s-encryption-patch
 
 
 *BatchPatch dependencies:*
+
 SQLite3: https://www.sqlite.org/
+
 KeyStone: https://www.keystone-engine.org/
