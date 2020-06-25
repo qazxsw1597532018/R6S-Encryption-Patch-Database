@@ -18,12 +18,13 @@ R6S Encryption Patch
 	6- Wait for BatchPatch to finish its work.
 
 
-Released in unknowncheats.me
-https://www.unknowncheats.me/forum/rainbow-six-siege/403298-r6s-encryption-patcher.html
-
-
 *BatchPatch dependencies:*
 
 	SQLite3: https://www.sqlite.org/
 	
 	KeyStone: https://www.keystone-engine.org/
+
+
+Release:
+
+https://www.unknowncheats.me/forum/rainbow-six-siege/403298-r6s-encryption-patcher.html
