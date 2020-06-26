@@ -1,5 +1,4 @@
 # R6S-Encryption-Patch-Database
-R6S Encryption Patch
 
 
 ## Usage:
