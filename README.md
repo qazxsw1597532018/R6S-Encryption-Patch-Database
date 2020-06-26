@@ -13,7 +13,7 @@ R6S Encryption Patch
 	
 	4- Run the game.
 	
-	5- Enter full to database file and click ENTER.
+	5- Enter full path to database file and click ENTER.
 	
 	6- Wait for BatchPatch to finish its work.
 
